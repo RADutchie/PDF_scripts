@@ -1,0 +1,1 @@
+Collection of pdf OCR and data extraction scripts
