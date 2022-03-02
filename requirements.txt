@@ -1,0 +1,7 @@
+ocrmypdf
+pandas
+pdfminer.six
+boto3
+tqdm
+pyPDF2
+python-dotenv
